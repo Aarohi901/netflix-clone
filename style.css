@@ -1,0 +1,244 @@
+*{
+    /*margin:0;*/
+    padding: 0;
+} 
+h1{
+    color:#ff0000;
+    font-size: 45px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 120px;
+}
+body{
+    background-color:black;
+}
+#box{
+    color: white;
+}
+button{
+    background-color: red;
+    color: white;
+    font-weight: normal;
+    padding: 8px 15px;
+    height:40px;
+     border-radius: 6px;
+    
+}
+input{
+    background-color: black;
+    color: white;
+}
+::placeholder{
+    color: rgba(255, 255, 255, 0.719);
+}
+p{
+    color: white;
+}
+#one{
+    font-family: 'Arial Narrow Bold';
+    text-align: center;
+    font-size:50px;
+    position: relative;
+    right: 30px;
+
+}
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+     position: relative;
+    right: 30px;
+}
+#three{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+     position: relative;
+    right: 30px;
+}
+#f2{
+    text-align: center;
+     position: relative;
+    right: 30px;
+}
+#f1{
+    position: relative;
+    bottom: 70px;
+    right: 120px;
+}
+ 
+button:hover{
+    background-color: rgba(255,0,0,0.9);
+}
+h4{
+    color: white;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    margin-left: 130px;
+}
+#movies{
+    display:flex;
+    justify-content:space-evenly;
+
+}
+#movies :hover{
+    transform: scale(1.06);   
+}
+#m1{
+    height:280px;
+    width:200px;
+    background-image: url(rookie.jpeg);
+    background-size: cover;
+    border-radius: 10px;
+}
+#m2{
+    height:280px;
+    width:200px;
+    background-image: url(royals.webp);
+    background-size: cover;
+    border-radius: 10px;
+}
+#m3{
+    height:280px;
+    width:200px;
+    background-image: url(jaat.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+#m4{
+    height:280px;
+    width:200px;
+    background-image: url(hit.webp);
+    background-size: cover;
+    border-radius: 10px;
+}
+#m5{
+    height:280px;
+    width:200px;
+    background-image: url(Chhaava_poster.width-550.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+#next{
+    background-color: rgb(66, 63, 63);
+    height: 130px;
+    font-size: x-large;
+    border-radius: 10px;
+    align-items: center;
+}
+h4{
+    color: white;
+}
+#reasons{
+    display:flex;
+    justify-content: space-evenly;
+}
+#r1{
+    background-color:#0f0c2c;
+    height:260px;
+    width:300px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#r2{
+    background-color:#0f0c2c;
+    height:260px;
+    width:300px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#r3{
+    background-color:#0f0c2c;
+    height:260px;
+    width:300px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#r4{
+    background-color:#0f0c2c;
+    height:260px;
+    width:300px;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+    font-size: 20px;
+    color: rgba(245, 245, 245, 0.748);
+}
+.faqs{
+    background-color: rgba(255, 255, 255, 0.216);
+    color:white;
+    width:950px;
+    height:80px;
+    font-size: larger;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+.faqs:hover{
+    background-color:  rgba(255, 255, 255, 0.415);
+}
+#lastemail{
+    margin-left: 300px;
+    height: 50px;
+    width:450px;
+    font-size: larger;
+}
+#lastbutton{
+    height:60px;
+    width:250px;
+    font-size: larger;
+}
+#end{
+    display: flex;
+     
+    
+}
+li{
+    list-style-type: none;
+    text-decoration: solid;
+    margin-right: 80px;
+    
+ 
+}
+#l1{
+    margin-right: 100px;
+    margin-left: 70px;
+    line-height: 30px;
+    
+ 
+}
+#l2{
+    margin-right: 80px;
+    line-height: 30px;
+}
+#l3{
+    margin-right: 80px;
+    line-height: 30px;
+}
+#l4{
+    margin-right: 80px;
+    line-height: 30px;
+}
+a{
+    color: rgba(255, 255, 255, 0.71);
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
